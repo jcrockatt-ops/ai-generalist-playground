@@ -1,0 +1,19 @@
+# Virtual environment and cache
+.venv/
+__pycache__/
+
+# Secrets
+.env
+*.json
+
+# Audio / video outputs
+*.mp3
+*.wav
+*.mp4
+*.mov
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Mac / system junk
+.DS_Store
